@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "web",
+    "name" : "Web",
+    "state" : "active"
+  },
+  {
+    "id" : "api",
+    "name" : "API"
+  },
+  {
+    "id" : "internet",
+    "name" : "Internet"
+  }
+  
+]

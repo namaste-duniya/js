@@ -1,0 +1,8 @@
+{
+  "logo": "../rts/images/icon/logo.png",
+  "name": "Read the Specs",
+  "nav": "Y",
+  "filter": "N",
+  "data": "../rts/data/data.json",
+  "section": "../rts/data/sections.json"
+}

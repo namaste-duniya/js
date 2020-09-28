@@ -1,0 +1,92 @@
+[
+    {
+    "section": "web",
+    "id": "html",
+    "name": "HTML",
+    "desc": "",
+    "type": "preview",
+    "link": "https://html.spec.whatwg.org/",
+    "size": "12"
+    },
+    {
+    "section": "web",
+    "id": "css",
+    "name": "CSS",
+    "desc": "",
+    "type": "preview",
+    "link": "https://www.w3.org/TR/?tag=css",
+    "size": "12"
+    },
+    {
+    "section": "web",
+    "id": "js",
+    "name": "JavaScript",
+    "desc": "",
+    "type": "preview",
+    "link": "https://tc39.es/ecma262",
+    "size": "12"
+    },
+    {
+    "section": "api",
+    "id": "openapi",
+    "name": "Open API",
+    "desc": "Open API Initiative",
+    "type": "preview",
+    "link": "http://spec.openapis.org/",
+    "size": "12"
+    },
+    {
+    "section": "api",
+    "id": "asyncapi",
+    "name": "Async API",
+    "desc": "Async API Initiative",
+    "type": "preview",
+    "link": "https://www.asyncapi.com/docs/specifications/latest",
+    "size": "12"
+    },
+    {
+    "section": "internet",
+    "id": "OAuth1",
+    "name": "OAuth 1",
+    "desc": "The OAuth 1 Protocol",
+    "type": "preview",
+    "link": "https://tools.ietf.org/html/rfc5849",
+    "size": "12"
+    },
+    {
+    "section": "internet",
+    "id": "OAuth2",
+    "name": "OAuth 2",
+    "desc": "The OAuth 2.0 Authorization Framework",
+    "type": "preview",
+    "link": "https://tools.ietf.org/html/rfc6749",
+    "size": "12"
+    },
+    {
+    "section": "internet",
+    "id": "openid1",
+    "name": "Open ID 1",
+    "desc": "Open ID Authentication 1.1",
+    "type": "preview",
+    "link": "https://openid.net/specs/openid-authentication-1_1.html",
+    "size": "12"
+    },
+    {
+    "section": "internet",
+    "id": "openid2",
+    "name": "Open ID 2",
+    "desc": "Open ID Authentication 2.0",
+    "type": "preview",
+    "link": "https://openid.net/specs/openid-authentication-2_0.html",
+    "size": "12"
+    },
+    {
+    "section": "internet",
+    "id": "openid",
+    "name": "Open ID Connect Core",
+    "desc": "",
+    "type": "preview",
+    "link": "https://openid.net/specs/openid-connect-core-1_0.html",
+    "size": "12"
+    }
+]
