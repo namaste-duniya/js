@@ -88,5 +88,35 @@
     "type": "preview",
     "link": "https://openid.net/specs/openid-connect-core-1_0.html",
     "size": "12"
+    },
+    
+    {
+    "section": "data",
+    "id": "avro",
+    "name": "Apache Avro",
+    "desc": "",
+    "type": "preview",
+    "link": "https://avro.apache.org/docs/current/spec.html",
+    "size": "12"
+    },
+    {
+    "section": "data",
+    "id": "protobuf",
+    "name": "Google Protocol Buffer",
+    "desc": "",
+    "type": "preview",
+    "link": "https://developers.google.com/protocol-buffers/docs/overview",
+    "size": "12"
+    },
+    {
+    "section": "data",
+    "id": "messpack",
+    "name": "MessagePack",
+    "desc": "",
+    "type": "preview",
+    "link": "https://github.com/msgpack/msgpack/blob/master/spec.md",
+    "size": "12"
     }
+    
+   
 ]
