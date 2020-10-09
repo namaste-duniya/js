@@ -45,6 +45,70 @@
     "size": "12"
     },
     {
+    "section": "api",
+    "id": "jsonapi",
+    "name": "JSON:API",
+    "desc": "A specification for building API's in JSON",
+    "type": "preview",
+    "link": "https://jsonapi.org/format/",
+    "size": "12"
+    },
+    {
+    "section": "api",
+    "id": "apijson",
+    "name": "api.json",
+    "desc": "",
+    "type": "preview",
+    "link": "https://app.apibuilder.io/doc/apiJson",
+    "size": "12"
+    },
+    {
+    "section": "api",
+    "id": "apiblueprint",
+    "name": "API Blueprint",
+    "desc": "",
+    "type": "preview",
+    "link": "https://apiblueprint.org/documentation/specification.html",
+    "size": "12"
+    },
+    {
+    "section": "api",
+    "id": "raml",
+    "name": "RAML",
+    "desc": "RESTful API Modeling Language",
+    "type": "preview",
+    "link": "https://github.com/raml-org/raml-spec",
+    "size": "12"
+    },
+    {
+    "section": "api",
+    "id": "rsdl",
+    "name": "RSDL",
+    "desc": "RESTful Service Description Language",
+    "type": "preview",
+    "link": "https://github.com/raml-org/raml-spec",
+    "size": "12"
+    },
+    {
+    "section": "api",
+    "id": "jsonrpc",
+    "name": "JSON-RPC",
+    "desc": "",
+    "type": "preview",
+    "link": "https://www.jsonrpc.org/specification",
+    "size": "12"
+    },
+    {
+    "section": "api",
+    "id": "jsonrpc",
+    "name": "JSON-RPC",
+    "desc": "",
+    "type": "preview",
+    "link": "https://www.jsonrpc.org/specification",
+    "size": "12"
+    },
+    
+    {
     "section": "internet",
     "id": "OAuth1",
     "name": "OAuth 1",
@@ -116,7 +180,24 @@
     "type": "preview",
     "link": "https://github.com/msgpack/msgpack/blob/master/spec.md",
     "size": "12"
+    },
+    {
+    "section": "data",
+    "id": "jsonld",
+    "name": "JSON-LD",
+    "desc": "A JSON-based Serialization for Linked Data",
+    "type": "preview",
+    "link": "https://www.w3.org/TR/json-ld/",
+    "size": "12"
+    },
+    {
+    "section": "data",
+    "id": "odata",
+    "name": "Open Data Protocol",
+    "desc": "",
+    "type": "preview",
+    "link": "https://docs.oasis-open.org/odata/odata/v4.01/odata-v4.01-part1-protocol.html",
+    "size": "12"
     }
-    
-   
+      
 ]
