@@ -1,5 +1,5 @@
 {
-  "logo" : "../rts/images/icon/logo.png",
+  "logo" : "https://readthespecs.github.io/images/icon/logo.png",
   "name" : "Read the Specs",
   "nav" : "Y",
   "filter" : "N",
@@ -7,6 +7,6 @@
   "data-dev" : "../rts/data/data.json",
   "section-dev": "../rts/data/sections.json",
 
-  "data" : "https://readthespecs.github.io/rts/data/data.json",
-  "section" : "https://readthespecs.github.io/rts/data/sections.json"
+  "data" : "https://readthespecs.github.io/data/data.json",
+  "section" : "https://readthespecs.github.io/data/sections.json"
 }
