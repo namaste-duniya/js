@@ -5,4 +5,4 @@
 // sectionUrl = '';
 
 // Dev
-configUrl = '../rts/data/config.json';
+configUrl = 'https://readthespecs.github.io/data/config.json';
