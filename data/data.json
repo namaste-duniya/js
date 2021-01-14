@@ -1,202 +1,47 @@
 [
     {
-    "section": "web",
-    "id": "html",
-    "name": "HTML",
-    "desc": "",
+    "section": "client",
+    "id": "firefox",
+    "name": "Mozilla Firefox",
+    "desc": "mozilla.org/firefox",
     "type": "preview",
-    "link": "https://html.spec.whatwg.org/",
+    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
     "size": "12"
     },
     {
-    "section": "web",
-    "id": "css",
-    "name": "CSS",
-    "desc": "",
+    "section": "client",
+    "id": "chrome",
+    "name": "Google Chrome",
+    "desc": "google.com/chrome",
     "type": "preview",
-    "link": "https://www.w3.org/TR/?tag=css",
+    "link": "https://www.google.com/chrome/",
     "size": "12"
     },
     {
-    "section": "web",
-    "id": "js",
-    "name": "JavaScript",
-    "desc": "",
+    "section": "server",
+    "id": "node",
+    "name": "NodeJS",
+    "desc": "nodejs.org",
     "type": "preview",
-    "link": "https://tc39.es/ecma262",
+    "link": "https://nodejs.org/en/",
     "size": "12"
     },
     {
-    "section": "api",
-    "id": "openapi",
-    "name": "Open API",
-    "desc": "Open API Initiative",
+    "section": "db",
+    "id": "mongo",
+    "name": "mongoDB",
+    "desc": "mongodb.com",
     "type": "preview",
-    "link": "http://spec.openapis.org/",
+    "link": "https://www.mongodb.com/",
     "size": "12"
     },
     {
-    "section": "api",
-    "id": "asyncapi",
-    "name": "Async API",
-    "desc": "Async API Initiative",
+    "section": "db",
+    "id": "couch",
+    "name": "CouchDB",
+    "desc": "couchdb.apache.org",
     "type": "preview",
-    "link": "https://www.asyncapi.com/docs/specifications/latest",
-    "size": "12"
-    },
-    {
-    "section": "api",
-    "id": "jsonapi",
-    "name": "JSON:API",
-    "desc": "A specification for building API's in JSON",
-    "type": "preview",
-    "link": "https://jsonapi.org/format/",
-    "size": "12"
-    },
-    {
-    "section": "api",
-    "id": "apijson",
-    "name": "api.json",
-    "desc": "",
-    "type": "preview",
-    "link": "https://app.apibuilder.io/doc/apiJson",
-    "size": "12"
-    },
-    {
-    "section": "api",
-    "id": "apiblueprint",
-    "name": "API Blueprint",
-    "desc": "",
-    "type": "preview",
-    "link": "https://apiblueprint.org/documentation/specification.html",
-    "size": "12"
-    },
-    {
-    "section": "api",
-    "id": "raml",
-    "name": "RAML",
-    "desc": "RESTful API Modeling Language",
-    "type": "preview",
-    "link": "https://github.com/raml-org/raml-spec",
-    "size": "12"
-    },
-    {
-    "section": "api",
-    "id": "rsdl",
-    "name": "RSDL",
-    "desc": "RESTful Service Description Language",
-    "type": "preview",
-    "link": "https://github.com/raml-org/raml-spec",
-    "size": "12"
-    },
-    {
-    "section": "api",
-    "id": "jsonrpc",
-    "name": "JSON-RPC",
-    "desc": "",
-    "type": "preview",
-    "link": "https://www.jsonrpc.org/specification",
-    "size": "12"
-    },
-    {
-    "section": "api",
-    "id": "jsonrpc",
-    "name": "JSON-RPC",
-    "desc": "",
-    "type": "preview",
-    "link": "https://www.jsonrpc.org/specification",
-    "size": "12"
-    },
-    
-    {
-    "section": "internet",
-    "id": "OAuth1",
-    "name": "OAuth 1",
-    "desc": "The OAuth 1 Protocol",
-    "type": "preview",
-    "link": "https://tools.ietf.org/html/rfc5849",
-    "size": "12"
-    },
-    {
-    "section": "internet",
-    "id": "OAuth2",
-    "name": "OAuth 2",
-    "desc": "The OAuth 2.0 Authorization Framework",
-    "type": "preview",
-    "link": "https://tools.ietf.org/html/rfc6749",
-    "size": "12"
-    },
-    {
-    "section": "internet",
-    "id": "openid1",
-    "name": "Open ID 1",
-    "desc": "Open ID Authentication 1.1",
-    "type": "preview",
-    "link": "https://openid.net/specs/openid-authentication-1_1.html",
-    "size": "12"
-    },
-    {
-    "section": "internet",
-    "id": "openid2",
-    "name": "Open ID 2",
-    "desc": "Open ID Authentication 2.0",
-    "type": "preview",
-    "link": "https://openid.net/specs/openid-authentication-2_0.html",
-    "size": "12"
-    },
-    {
-    "section": "internet",
-    "id": "openid",
-    "name": "Open ID Connect Core",
-    "desc": "",
-    "type": "preview",
-    "link": "https://openid.net/specs/openid-connect-core-1_0.html",
-    "size": "12"
-    },
-    
-    {
-    "section": "data",
-    "id": "avro",
-    "name": "Apache Avro",
-    "desc": "",
-    "type": "preview",
-    "link": "https://avro.apache.org/docs/current/spec.html",
-    "size": "12"
-    },
-    {
-    "section": "data",
-    "id": "protobuf",
-    "name": "Google Protocol Buffer",
-    "desc": "",
-    "type": "preview",
-    "link": "https://developers.google.com/protocol-buffers/docs/overview",
-    "size": "12"
-    },
-    {
-    "section": "data",
-    "id": "messpack",
-    "name": "MessagePack",
-    "desc": "",
-    "type": "preview",
-    "link": "https://github.com/msgpack/msgpack/blob/master/spec.md",
-    "size": "12"
-    },
-    {
-    "section": "data",
-    "id": "jsonld",
-    "name": "JSON-LD",
-    "desc": "A JSON-based Serialization for Linked Data",
-    "type": "preview",
-    "link": "https://www.w3.org/TR/json-ld/",
-    "size": "12"
-    },
-    {
-    "section": "data",
-    "id": "odata",
-    "name": "Open Data Protocol",
-    "desc": "",
-    "type": "preview",
-    "link": "https://docs.oasis-open.org/odata/odata/v4.01/odata-v4.01-part1-protocol.html",
+    "link": "https://couchdb.apache.org/",
     "size": "12"
     }
       
