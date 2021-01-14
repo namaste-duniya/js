@@ -43,6 +43,24 @@
     "type": "preview",
     "link": "https://couchdb.apache.org/",
     "size": "12"
+    },
+    {
+    "section": "hybrid",
+    "id": "elctron",
+    "name": "Electron",
+    "desc": "electronjs.org",
+    "type": "preview",
+    "link": "https://www.electronjs.org/",
+    "size": "12"
+    },
+    {
+    "section": "hybrid",
+    "id": "cordova",
+    "name": "Apache Cordova",
+    "desc": "cordova.apache.org",
+    "type": "preview",
+    "link": "https://cordova.apache.org/",
+    "size": "12"
     }
       
 ]
