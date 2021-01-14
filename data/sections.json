@@ -1,20 +1,15 @@
 [
   {
-    "id" : "web",
-    "name" : "Web",
+    "id" : "client",
+    "name" : "Client",
     "state" : "active"
   },
   {
-    "id" : "api",
-    "name" : "API"
+    "id" : "server",
+    "name" : "Server"
   },
   {
-    "id" : "data",
-    "name" : "Data"
-  },
-  {
-    "id" : "internet",
-    "name" : "Internet"
+    "id" : "db",
+    "name" : "Database"
   }
-  
 ]
