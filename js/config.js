@@ -5,4 +5,4 @@
 // sectionUrl = '';
 
 // Dev
-configUrl = 'https://readthespecs.github.io/data/config.json';
+configUrl = 'https://namaste-duniya.github.io/js/data/config.json';
