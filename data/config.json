@@ -1,12 +1,12 @@
 {
-  "logo" : "https://readthespecs.github.io/images/icon/logo.png",
-  "name" : "Read the Specs",
-  "nav" : "Y",
+  "logo" : "",
+  "name" : "Namaste JS",
+  "nav" : "N",
   "filter" : "N",
   
-  "data-dev" : "../rts/data/data.json",
-  "section-dev": "../rts/data/sections.json",
+  "data-dev" : "",
+  "section-dev": "",
 
-  "data" : "https://readthespecs.github.io/data/data.json",
-  "section" : "https://readthespecs.github.io/data/sections.json"
+  "data" : "https://namaste-duniya.github.io/js/data/data.json",
+  "section" : "https://namaste-duniya.github.io/js/data/sections.json"
 }
