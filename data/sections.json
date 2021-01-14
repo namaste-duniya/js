@@ -11,5 +11,9 @@
   {
     "id" : "db",
     "name" : "Database"
+  },
+  {
+    "id" : "hybrid",
+    "name" : "Hybrid"
   }
 ]
