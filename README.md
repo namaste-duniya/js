@@ -1,2 +1,1 @@
-# readthespecs.github.io
-Read the Specs
+# Namaste JS
