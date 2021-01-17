@@ -5,4 +5,4 @@
 // sectionUrl = '';
 
 // Dev
-configUrl = 'https://namaste-duniya.github.io/js/data/config.json';
+configUrl = 'https://namaste.js.org/data/config.json';
