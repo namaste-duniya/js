@@ -7,6 +7,6 @@
   "data-dev" : "",
   "section-dev": "",
 
-  "data" : "https://namaste-duniya.github.io/js/data/data.json",
-  "section" : "https://namaste-duniya.github.io/js/data/sections.json"
+  "data" : "https://namaste.js.org/data/data.json",
+  "section" : "https://namaste.js.org/data/sections.json"
 }
